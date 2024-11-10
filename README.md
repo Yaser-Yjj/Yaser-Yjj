@@ -33,4 +33,21 @@
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,arduino,c,cpp,css,bootstrap,dart,discord,firebase,flask,flutter,git,github,gradle,html,idea,ai,js,latex,linux,maven,mysql,nodejs,npm,php,postman,py,pycharm,raspberrypi,sqlite,selenium,visualstudio,vscode,windows,&theme=dark&perline=12"\>
 </p>
 
+<h3 align="center">GitHub Stats 📊  <h3\>    
+    
+<div align="center" >
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yaser0&layout=compact&theme=radical" width="50%" style="height:auto;">
+   
+</div>
+<h3 align="center">Top Languages 💻 <h3\>   
+    
+<div align="center" >
+
+  <img src="https://github-readme-stats.vercel.app/api?username=0yaser0&show_icons=true&theme=radical" width="50%" style="height:auto;">
+</div>
+
+
+
+
 
