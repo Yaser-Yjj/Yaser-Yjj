@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=002F94&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+Coders!+✨;+I'm+Yaser+Yjjou+|+@λύκος;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=002F94&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+Coders!+✨;+I'm+Yaser+Yjjou+|+λύκος;" />
 </h1>
 <div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
