@@ -16,7 +16,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning **kotlin and flutter** <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **C, kotlin, OOP** <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **yaseryjjou@gmail.com**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact **i think i'm funny 😂✨<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact **i think i'm funny** 😂✨<br>
 
 
 <div/>
@@ -33,14 +33,14 @@
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,arduino,c,cpp,css,bootstrap,dart,discord,firebase,flask,flutter,git,github,gradle,html,idea,ai,js,latex,linux,maven,mysql,nodejs,npm,php,postman,py,pycharm,raspberrypi,sqlite,selenium,visualstudio,vscode,windows,&theme=dark&perline=12"\>
 </p>
 
-<h3 align="center">GitHub Stats 📊  <h3\>    
+<h3 align="center">Top Languages 💻<h3\>    
     
 <div align="center" >
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yaser0&layout=compact&theme=radical" width="50%" style="height:auto;">
    
 </div>
-<h3 align="center">Top Languages 💻 <h3\>   
+<h3 align="center">GitHub Stats 📊<h3\>   
     
 <div align="center" >
 
