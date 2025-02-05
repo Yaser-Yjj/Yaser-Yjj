@@ -4,7 +4,7 @@
 <div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
 <div/>
-<h3 align="center">I am a mobile app developer, passionate about this field and always eager to learn and grow in it.</h3>
+<h3 align="center">I am a mobile app developer, deeply enthusiastic about this field and always eager to learn and grow in it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0yaser0&label=Profile%20views&color=0e75b6&style=flat" alt="0yaser0" /> </p>
 
@@ -36,15 +36,12 @@
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,arduino,c,cpp,css,bootstrap,dart,discord,firebase,flask,flutter,git,github,gradle,html,idea,ai,js,latex,linux,maven,mysql,nodejs,npm,php,postman,py,pycharm,raspberrypi,sqlite,selenium,visualstudio,vscode,windows,&theme=dark&perline=12"\>
 </p>
 
-<h3 align="center">Top Languages 💻<h3\>    
-    
 <div align="center" >
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yaser0&layout=compact&theme=radical" width="50%" style="height:auto;">
+  <a href="https://github.com/0yaser0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0yaser0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
    
 </div>
-<h3 align="center">GitHub Stats 📊<h3\>   
-    
+    <h3 align="center"><h3\>
 <div align="center" >
 
   <img src="https://github-readme-stats.vercel.app/api?username=0yaser0&show_icons=true&theme=radical" width="50%" style="height:auto;">
